@@ -1,1 +1,1 @@
-console.log("Nada");
+let date = new Date();
