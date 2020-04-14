@@ -1,4 +1,3 @@
-console.log("Hey Buddy");
 
 sum = (a,b)=>a+b;
 
