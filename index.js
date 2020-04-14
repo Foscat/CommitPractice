@@ -1,1 +1,3 @@
-console.log("Nada");
+let date = new Date();
+
+console.log("Right now is: "+date);
